@@ -1,0 +1,1 @@
+This is where images are stored for documentation
