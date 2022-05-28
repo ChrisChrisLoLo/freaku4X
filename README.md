@@ -2,6 +2,8 @@
 
 A 4x10 ortho keyboard with a knob and OLED. It embraces the excess minimalism of the key count, and embraces the excess extravagence of a knob and oled screen. It also has a lower profile than your typical 4x10 orthos, since the microcontroller is facing upwards rather than downwards.
 
+![freaku4X](https://i.imgur.com/1maVma3.jpg)
+
 ## Status
 Prototyping phase. While possible to print and use right now, a few refinements can be made.
 Right now, the knob button needs to be placed on the key matrix, and I wouldprefer to rotate the keys around so that hotswap is southfacing.
